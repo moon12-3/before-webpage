@@ -1,0 +1,13 @@
+*{
+		font-family:나눔스퀘어;
+	}
+	#image{
+		float:left;
+
+	}
+	#desc{
+		float:left;
+		width:400px;
+		margin-right:70px;
+		line-height:50px;
+	}
